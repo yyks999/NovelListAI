@@ -20,6 +20,9 @@ const Header: React.FC = () => {
       </div>
       <nav className="flex items-center space-x-6">
         <ul className="flex space-x-6">
+          <li><a href="#" className="text-gray-600 hover:text-gray-900">{t('servePerson')}</a></li>
+          <li><a href="#" className="text-gray-600 hover:text-gray-900">{t('technology')}</a></li>
+          <li><a href="#" className="text-gray-600 hover:text-gray-900">{t('projectShow')}</a></li>
           <li><a href="#" className="text-gray-600 hover:text-gray-900">{t('workflow')}</a></li>
           <li><a href="#" className="text-gray-600 hover:text-gray-900">{t('features')}</a></li>
           <li><a href="#" className="text-gray-600 hover:text-gray-900">{t('about')}</a></li>

@@ -50,6 +50,9 @@
       }
     },
     "Header": {
+      "servePerson": "工项目服务人群",
+      "technology": "项目使用技术及原理",
+      "projectShow": "项目展示",
       "workflow": "工作流程",
       "features": "功能",
       "about": "关于我们",
